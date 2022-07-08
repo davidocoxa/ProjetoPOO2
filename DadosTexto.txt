@@ -1,0 +1,14 @@
+Data_envio:data
+Nome Crianca:davi
+Logradouro:string
+Numero:12
+Bairrostring
+Cidade:string
+Telefone:12345678912
+Nome_responsavel:/r/nMarlon
+Item_Pedido:qualquer
+Peso:0.0
+Largura:0.0
+Altura:0.0
+Comprimento:0.0
+Categorias:cate
